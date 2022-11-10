@@ -11,3 +11,4 @@
 
 ![Screen Shot 2022-11-09 at 9 07 46 PM](https://user-images.githubusercontent.com/115109628/200998512-0ccbc14b-986d-4736-8c34-bd2e3457862d.png)
 
+#3) This script can be easily modified for other elections across the state and or country. The counties analyized in this audit can be easily switched out to adhere to a different election also including different candidates. While still outputing accurate results. 
